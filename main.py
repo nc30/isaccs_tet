@@ -1,5 +1,4 @@
+from __future__ import print_function
 import time
 
-while True:
-    print "hello world"
-    time.sleep(10)
+print("HELLO!")
