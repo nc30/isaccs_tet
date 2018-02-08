@@ -14,3 +14,4 @@ sys.stdout.write("this is stdout message.\r\n")
 sys.stderr.write("this is stderr message.\r\n")
 sys.stdout.write("i go exit. goodbye.\r\n")
 sys.exit(0)
+
